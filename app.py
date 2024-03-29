@@ -4,7 +4,7 @@
 
 # pip install flask (Install flask)
 
-# Goto app.py location and run : python -m flask run (Run the fFlask Application)
+# Goto app.py location and run : python -m flask run (Run the Flask Application)
 
 from flask import Flask, render_template,abort
 
